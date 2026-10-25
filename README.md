@@ -1,3 +1,5 @@
+<img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0:0d1117,100:30363d&section=header" width="100%" alt="" />
+
 <div align="center">
 
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=22&duration=3000&pause=1200&color=8B949E&center=true&vCenter=true&width=520&lines=Hi%2C+I'm+Ho+Si+Duc;Software+Engineer+%40+TMA+Solutions;Front-end+%E2%86%92+Full-stack+%C2%B7+AI" alt="typing" />
@@ -15,15 +17,14 @@
 
 ```txt
 > whoami
-  front-end engineer, 2 years modernizing large-scale enterprise systems
-  (AngularJS → React), growing into a full-stack developer
+  front-end engineer, 2 years modernizing large-scale enterprise systems,growing into a full-stack developer
 
 > now
   Software Engineer @ TMA Solutions
   M.Sc. Computer Science @ UIT, VNU-HCM
 
 > focus
-  bringing AI into the software lifecycle · RAG & LLM apps · Go / TS backends
+  bringing AI into the software lifecycle · RAG & LLM apps · Go / TS backends · React frontends
 ```
 
 <br/>
@@ -33,7 +34,7 @@
 <p>
   <img src="https://skillicons.dev/icons?i=ts,js,java,go,python,react,nextjs,redux,tailwind,nodejs,express,spring&theme=dark&perline=12" alt="languages & frameworks" />
   <br/>
-  <img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,aws,docker,kubernetes,webpack,playwright,git&theme=dark&perline=12" alt="data & tooling" />
+  <img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,aws,docker,kubernetes,webpack,git&theme=dark&perline=12" alt="data & tooling" />
 </p>
 
 <br/>
@@ -70,7 +71,9 @@
 
 **M.Sc. Computer Science** · University of Information Technology, VNU-HCM <sub>2025 — now</sub>
 <br/>
-**B.Sc. Information Technology** · University of Science, VNU-HCM <sub>2020 — 2024</sub>
+**B.Sc. Information Technology** · University of Science, VNU-HCM <sub>2020 — 2024 · GPA 8.12/10</sub>
+
+<sub>Certifications · TOEIC L&R 630/990 (Dec 2022) · VSTEP B1 (Jul 2023)</sub>
 
 <br/>
 
@@ -81,8 +84,16 @@
   <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SyDuc7421&layout=compact&hide_border=true&hide_title=true&bg_color=00000000&text_color=8B949E&langs_count=6" alt="languages" />
 </p>
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/SyDuc7421/SyDuc7421/output/snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/SyDuc7421/SyDuc7421/output/snake.svg" />
+  <img src="https://raw.githubusercontent.com/SyDuc7421/SyDuc7421/output/snake.svg" width="100%" alt="contribution snake" />
+</picture>
+
 <br/>
 
 <div align="center">
   <sub><i>"Life is like a box of chocolates. You never know what you're gonna get."</i></sub>
 </div>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=100&color=0:30363d,100:0d1117&section=footer" width="100%" alt="" />
